@@ -40,6 +40,6 @@ n_estimators
 max_depth
 min_samples_split
 Results
-Best Model: Random Forest Regressor with optimized parameters.
-R2 Score after tuning: Achieved a score close to 0.63, indicating a strong predictive performance.
-Key Factors Affecting Price: Engine size, horsepower, car weight, and fuel type were identified as critical factors.
+Best Model:** Random Forest Regressor** with optimized parameters.
+**R2 Score after tuning: Achieved a score close to 0.63**, indicating a strong predictive performance.
+**Key Factors Affecting Price:** Engine size, horsepower, car weight, and fuel type were identified as critical factors.
